@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class Main //모든 파일명을 Main이라고 할 순 없잖소... {
 
     public static void main(String args[]) throws IOException {
         // 입력을 받기 위한 BufferedReader 생성
